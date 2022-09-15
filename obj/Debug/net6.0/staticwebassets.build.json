@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "MdjjMD87LCr8zhBCY9Uedwd8+E/jP2mECaqTb+orr14=",
+  "Source": "web_cv",
+  "BasePath": "_content/web_cv",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "web_cv/wwwroot",
+      "Source": "web_cv",
+      "ContentRoot": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/",
+      "BasePath": "_content/web_cv",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/css/cite.css",
+      "SourceId": "web_cv",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/",
+      "BasePath": "_content/web_cv",
+      "RelativePath": "css/cite.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/cite.css"
+    },
+    {
+      "Identity": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/favicon.ico",
+      "SourceId": "web_cv",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/",
+      "BasePath": "_content/web_cv",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/index.html",
+      "SourceId": "web_cv",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/",
+      "BasePath": "_content/web_cv",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/js/site.js",
+      "SourceId": "web_cv",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/daniiltolkachev/Desktop/web_cv/wwwroot/",
+      "BasePath": "_content/web_cv",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ]
+}
